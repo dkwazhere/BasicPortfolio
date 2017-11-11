@@ -8,6 +8,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
+	height: 80px;
 }
 
 li {
@@ -18,7 +19,7 @@ li {
 
 li a {
 	display: block;
-	color: #9fa8b2;
+	color: black;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -28,6 +29,7 @@ li a {
 li:last-child {
     border-right: none;
 }
+
 
 .a {
 	background-color: lightgrey;
@@ -43,7 +45,7 @@ li:last-child {
 
 .img {
     position: absolute;
-    top: 260px;
+    top: 290px;
     left: 110;
     width: 200px;
     height: 200px;
@@ -58,4 +60,15 @@ li:last-child {
 	width: 500px;
 	border-color: #411c50;
 
+}
+
+.about {
+	position: absolute;
+	text-align: center;
+	background-color: lightgrey;
+	width: 300px;
+    height: 200px;
+	right: 680px;
+	top: 280px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
