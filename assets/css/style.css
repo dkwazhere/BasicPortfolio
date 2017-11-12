@@ -10,17 +10,18 @@ ul {
 	padding: 0;
 	overflow: hidden;
 	height: 80px;
+	margin-right: 5%;
 	
 }
 
 li {
 	float: right;
-	background-color: white;
+	background-color: WHITE;
 }
 
 li a {
 	display: block;
-	color: black;
+	color: BLACK;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -29,8 +30,8 @@ li a {
 
 
 .name {
-	background-color: #4aaaa5;
-	color: white;
+	background-color: #4AAAA5;
+	color: WHITE;
 	font-weight: bold;
 	font-size: 20px;
 	vertical-align: middle;
