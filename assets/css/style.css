@@ -23,3 +23,15 @@ li a {
 	padding: 14px 16px;
 	text-decoration: none;
 }
+
+.name {
+	position: absolute;
+	color: white;
+	background-color: #4aaaa5;
+	float: left;
+	top: -15px;
+	left: 150px;
+	padding-top: 20px;
+	padding-bottom: 21px;
+
+}
