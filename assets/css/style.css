@@ -10,7 +10,7 @@ ul {
 	padding: 0;
 	overflow: hidden;
 	height: 80px;
-	margin-right: 5%;
+	margin-right: 15%;
 	
 }
 
@@ -39,7 +39,7 @@ li a {
 	float: left;
 	line-height: 80px;
 	padding: 0 1rem;
-	margin-left: 5%;
+	margin-left: 15%;
 	
 }
 
@@ -49,7 +49,7 @@ li a {
 	background-color: white;
 	width: 500px;
 	height: 400px;
-	left: 10%;
+	left: 20%;
 	top: 15%;
 	text-align: center;
 	padding: 0;
@@ -92,11 +92,12 @@ li a {
 .connect {
 	border: solid gray;
 	background-color: white;
-	width: 250px;
-	height: 250px;
 	float: right;
-	margin-right: 18%;
-	margin-top: 2.5%;
+	margin-right: 30%;
+	margin-top: 5%;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding-top: 5%;
+	padding-bottom: 5%;
 }
 
 .img {
@@ -112,10 +113,13 @@ li a {
 	position: absolute;
 	background-color: WHITE;
 	text-align: center;
-	padding: 20px;
+	height: 40px;
 	bottom: 1%;
-	padding-left: 45%;
+	padding-left: 47%;
 	padding-right: 45%;
+	padding-top: 1%;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
 
 
 
