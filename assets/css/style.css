@@ -109,11 +109,13 @@ li a {
 }
 
 .copyright {
-	position: relative;
+	position: absolute;
 	background-color: WHITE;
 	text-align: center;
 	padding: 20px;
-	bottom: -440px;
+	bottom: 1%;
+	padding-left: 45%;
+	padding-right: 45%;
 
 
 
