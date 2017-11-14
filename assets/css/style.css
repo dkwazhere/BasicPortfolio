@@ -111,6 +111,7 @@ li a {
 	font-size: 24px;
 	font-weight: bold;	
 	border-radius: 5px;
+	text-align: center;
 }
 
 
@@ -172,6 +173,7 @@ input[type=text], select, textarea {
 .contactform {
 	padding-top: 5%;
 	border-radius: 5px;
+	text-align: center;
 }
 
 .connectcontact {
@@ -189,5 +191,79 @@ input[type=text], select, textarea {
 	margin-top: -31%;
 	margin-right: 15%;
 	border-radius: 5px;
+	text-align: center;
 }
 
+.port {
+	position: absolute;
+	background-color: WHITE;
+	border: solid gray;
+	width: 360px;
+	padding-bottom: 26%;
+	padding-top: -1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-left: 14.85%;
+	margin-top: 1.5%;
+	border-radius: 5px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+
+}
+
+.portimg1 {
+	float: right;
+	padding: 1px;
+	margin-top: 8%;
+	margin-right: 5%;
+	height: 120px;
+	width: 120px;
+}
+
+.portimg2 {
+	float: right;
+	padding: 1px;
+	margin-right: 5%;
+	height: 120px;
+	width: 120px;
+}
+
+.portimg3 {
+	float: left;
+	padding: 1px;
+	height: 120px;
+	width: 120px;
+}
+
+.portimg4 {
+	float: left;
+	padding: 1px;
+	height: 120px;
+	width: 120px;
+}
+
+.portimg5 {
+	float: left;
+	padding: 1px;
+	height: 120px;
+	width: 120px;
+}
+
+.port1 {
+	position: absolute;
+	background-color: white;
+	margin-left: 21%;
+	margin-top: 5.9%;
+	padding-left: 1%;
+	padding-top: 0;
+}
+
+.port2 {
+	position: absolute;
+	background-color: WHITE;
+	margin-top: 7.3%;
+	width: 10%;
+	margin-left: 20%;
+}
