@@ -50,14 +50,14 @@ li a {
 	padding-top: 1%;
 	text-align: center;
 	width: 520px;
-	padding-bottom: 20%;
+	padding-bottom: 10%;
 	margin-left: 14.7%;
 	border-radius: 5px;
 	
 }
 
 .profilepic {
-	position: relative;
+	float: left;
 	border: solid gray;
 	position: absolute;
 	height: 200px;
@@ -67,17 +67,19 @@ li a {
 
 }
 
-.aboutmesection {
-	float: left;
 
+.aboutmesection {
+	float: right;
 }
 
 .about {
-	position: relative;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 12px;
+	width: 40%;
 	float: right;
-	margin-left: 3%;
+	padding-right: 10%;
+	padding-top: 10%;
+	margin-top: 10%;
 	
 }
 
@@ -163,12 +165,11 @@ input[type=text], select, textarea {
 }
 
 .connectcontact {
-	position: relative;
 	border: solid gray;
 	background-color: white;
 	float: right;
 	font-family: 'Georgia', Times, Times New Roman, serif;
-	padding-top: 3%;
+	padding-top: 5%;
 	padding-bottom: 5%;
 	padding-left: 3%;
 	padding-right: 3%;
@@ -177,8 +178,9 @@ input[type=text], select, textarea {
 	margin-top: -31%;
 	margin-right: 15%;
 	border-radius: 5px;
-	text-align: center;
+	
 }
+
 
 .port {
 	position: absolute;
