@@ -11,7 +11,7 @@ ul {
 	overflow: hidden;
 	height: 80px;
 	margin-right: 15%;
-	
+
 }
 
 li {
@@ -40,7 +40,7 @@ li a {
 	line-height: 80px;
 	padding: 0 1rem;
 	margin-left: 15%;
-	
+
 }
 
 .aboutme {
@@ -53,7 +53,7 @@ li a {
 	padding-bottom: 10%;
 	margin-left: 14.7%;
 	border-radius: 5px;
-	
+
 }
 
 .profilepic {
@@ -80,7 +80,7 @@ li a {
 	padding-right: 10%;
 	padding-top: 10%;
 	margin-top: 10%;
-	
+
 }
 
 /*
@@ -111,7 +111,7 @@ li a {
 	margin-top: 1.5%;
 	margin-right: 15%;
 	font-size: 24px;
-	font-weight: bold;	
+	font-weight: bold;
 	border-radius: 5px;
 	text-align: center;
 }
@@ -155,7 +155,7 @@ input[type=text], select, textarea {
 	padding-bottom: 2%;
 	margin-right: 20%;
 	margin-left: 15%;
-	
+
 }
 
 .contactform {
@@ -178,7 +178,7 @@ input[type=text], select, textarea {
 	margin-top: -31%;
 	margin-right: 15%;
 	border-radius: 5px;
-	
+
 }
 
 
